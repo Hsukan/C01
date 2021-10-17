@@ -6,11 +6,11 @@
 /*   By: hahan <hahan@student.42seoul.kr>           +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/10/14 11:09:51 by hahan             #+#    #+#             */
-/*   Updated: 2021/10/14 11:10:50 by hahan            ###   ########.fr       */
+/*   Updated: 2021/10/17 10:43:02 by hahan            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-void ft_ultimate_div_mod(int *a, int *b)
+void	ft_ultimate_div_mod(int *a, int *b)
 {
 	int	i;
 	int	j;
